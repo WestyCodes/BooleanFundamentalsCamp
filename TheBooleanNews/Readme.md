@@ -1,3 +1,2 @@
-#Boolean News Website
-<hr />
+# Boolean News Website
 Recreating a newsletter to test current knowledge.
