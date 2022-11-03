@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+h2,
+strong {
+  color: #0a688d;
+}
+
+.header .logo,
+.header nav,
+.header ul,
+.header ul li {
+  display: inline;
+}
+
+.header {
+  background-color: #077caa;
+  padding: 20px;
+}
+
+.header .logo {
+  color: white;
+  font-size: 20px;
+}
+
+.header nav {
+  margin-left: 20px;
+}
+
+.header ul {
+  list-style: none;
+}
+
+.header ul li {
+  margin-right: 20px;
+}
+
+.header ul a {
+  color: white;
+  text-decoration: none;
+}
+
+.main {
+  padding: 30px;
+}
+
+.top-section,
+.follow-us-section {
+  padding: 10px;
+}
+
+.section-title {
+  margin-bottom: 20px;
+}
+
+.top-section p {
+  margin-bottom: 10px;
+}
+
+.get-membership {
+  display: inline-block;
+  margin-top: 20px;
+  color: #f77b08;
+  border: solid 2px #f77b08;
+  border-radius: 10px;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+.social-link {
+  border: solid 1px #0000008f;
+  padding: 10px 20px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+.instagram {
+  background-color: purple;
+}
+
+.facebook {
+  background-color: #1877f2;
+}
+
+.youtube {
+  background-color: red;
+}
