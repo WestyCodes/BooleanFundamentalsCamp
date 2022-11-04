@@ -4,4 +4,4 @@ Recreate the grid structure of gmail like this image: https://cdn.fs.teachablecd
 Then make the columns responsive to screen size changes.
 My attempt: https://lw6xp3.csb.app/
 
-<a href="https://lw6xp3.csb.app/" target="_blank" rel="Website">Link</a>
+<a href="https://lw6xp3.csb.app/" target="_blank">Website</a>
