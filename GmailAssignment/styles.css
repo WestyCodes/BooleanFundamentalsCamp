@@ -1,5 +1,7 @@
 * {
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .container {
@@ -44,6 +46,10 @@
       "left main far-right" 1fr /
       175px 1fr 50px;
   }
+
+  .right {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 800px) {
@@ -52,6 +58,10 @@
       "header header" 50px
       "left main" 1fr /
       175px 1fr;
+  }
+
+  .far-right {
+    display: none;
   }
 }
 
