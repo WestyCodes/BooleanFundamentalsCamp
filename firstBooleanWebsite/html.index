@@ -16,6 +16,7 @@
         <a href="#Experience-Link">Experience</a>
       </nav>
     </header>
+
     <main>
       <article class="main-hiring">
         <section class="main-hiring-header">
@@ -32,6 +33,7 @@
           </p>
         </section>
       </article>
+
       <article class="about-me">
         <section>
           <h2 class="about-me-heading" id="About-Me-Link">About Me</h2>
@@ -60,6 +62,7 @@
           </div>
         </section>
       </article>
+
       <article class="portfolio">
         <section class="section-portfolio">
           <h2 class="portfolio-heading" id="Portfolio-Link">PORTFOLIO</h2>
@@ -84,6 +87,7 @@
                 >
               </nav>
             </div>
+
             <div class="portfolio-examples">
               <h3>Code Wars</h3>
               <p>
@@ -104,6 +108,7 @@
                 >
               </nav>
             </div>
+
             <div class="portfolio-examples">
               <h3>TBD</h3>
               <p>
@@ -127,9 +132,11 @@
           </div>
         </section>
       </article>
+
       <article class="experience">
         <section>
           <h2 class="experience-heading" id="Experience-Link">EXPERIENCE</h2>
+
           <div class="experience-container">
             <h3>Children's Author</h3>
             <p>
@@ -142,6 +149,7 @@
               ut nulla eveniet itaque incidunt officiis fuga ipsum.
             </p>
           </div>
+
           <div class="experience-container">
             <h3>Illustrator</h3>
             <p>
